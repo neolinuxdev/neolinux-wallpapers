@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+
+    <wallpaper deleted="false">
+        <name>1</name>
+        <filename>/usr/share/backgrounds/wallpaper-1.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>2</name>
+        <filename>/usr/share/backgrounds/wallpaper-2.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>3</name>
+        <filename>/usr/share/backgrounds/wallpaper-3.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>4</name>
+        <filename>/usr/share/backgrounds/wallpaper-4.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>5</name>
+        <filename>/usr/share/backgrounds/wallpaper-5.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>6</name>
+        <filename>/usr/share/backgrounds/wallpaper-6.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>7</name>
+        <filename>/usr/share/backgrounds/wallpaper-7.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>8</name>
+        <filename>/usr/share/backgrounds/wallpaper-8.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>wallpaper-9.jpg</name>
+        <filename>/usr/share/backgrounds/9</filename>
+        <options>stretched</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>10</name>
+        <filename>/usr/share/backgrounds/wallpaper-10.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>11</name>
+        <filename>/usr/share/backgrounds/wallpaper-11.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>12</name>
+        <filename>/usr/share/backgrounds/wallpaper-12.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>13</name>
+        <filename>/usr/share/backgrounds/wallpaper-13.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>14</name>
+        <filename>/usr/share/backgrounds/wallpaper-14.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>15</name>
+        <filename>/usr/share/backgrounds/wallpaper-15.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>16</name>
+        <filename>/usr/share/backgrounds/wallpaper-16.jpg</filename>
+        <options>stretched</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>17</name>
+        <filename>/usr/share/backgrounds/wallpaper-17.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>18</name>
+        <filename>/usr/share/backgrounds/wallpaper-18.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>19</name>
+        <filename>/usr/share/backgrounds/wallpaper-19.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>20</name>
+        <filename>/usr/share/backgrounds/wallpaper-20.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>21</name>
+        <filename>/usr/share/backgrounds/wallpaper-21.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>22</name>
+        <filename>/usr/share/backgrounds/wallpaper-22.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+
+</wallpapers>
