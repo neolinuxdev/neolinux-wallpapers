@@ -5,7 +5,9 @@ All those wallpapers were taken from unsplash and pexels.
 
 Cinnamon and Gnome
 
-```git clone https://github.com/orangevictor/neolinux-wallpapers.git && cd neolinux-wallpapers && sudo cp -r xml/* /usr/share/gnome-background-properties/ && sudo cp -r -v *.png *.svg *.jpg /usr/share/backgrounds```
+move all the pictures to ```/usr/share/backgrounds/```
+
+mv everything in the ```xml``` folder to ```/usr/share/gnome-background-properties/```
 
 XFCE
 
