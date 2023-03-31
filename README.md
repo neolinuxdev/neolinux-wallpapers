@@ -5,9 +5,9 @@ All those wallpapers were taken from unsplash and pexels.
 
 Cinnamon and Gnome
 
-move all the pictures to ```/usr/share/backgrounds/```
+Move all the pictures to ```/usr/share/backgrounds/```
 
-mv everything in the ```xml``` folder to ```/usr/share/gnome-background-properties/```
+Move everything in the ```xml``` folder to ```/usr/share/gnome-background-properties/```
 
 XFCE
 
